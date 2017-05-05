@@ -1,5 +1,5 @@
 {
-  "name": "@okta/okta-sign-in",
+  "name": "okta-sign-in",
   "version": "1.0.0",
   "description": "Wrapper fror okra sign-in frontend",
   "main": "okta-sign-in.min.js",
