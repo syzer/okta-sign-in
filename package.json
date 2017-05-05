@@ -1,0 +1,19 @@
+{
+  "name": "@okta/okta-sign-in",
+  "version": "1.0.0",
+  "description": "Wrapper fror okra sign-in frontend",
+  "main": "okta-sign-in.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syzer/okta-sign-in.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syzer/okta-sign-in/issues"
+  },
+  "homepage": "https://github.com/syzer/okta-sign-in#readme"
+}
